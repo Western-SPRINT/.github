@@ -1,0 +1,2 @@
+# SPRINT: fnirS Platform foR braIn moNiToring, analytics and data repository
+A platform to develop novel functional Near-Infrared Spectroscopy (fNIRS) technologies and software and apply them in patients with brain-based disorders. Funded by Brain Canada via a Platform Support Grant.

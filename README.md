@@ -1,2 +1,0 @@
-# .github
-Western-SPRINT readme
